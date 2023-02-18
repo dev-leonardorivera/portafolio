@@ -1,2 +1,9 @@
-# portafolio
-portafolio leonardo rivera
+## Prtafolio web Leonardo Rivera
+Portafolio personal donde muestro algunos de mis proyectos y mensiono mis habilidades.
+
+## tegnolodias empleadas
+HTML, CSS, Vue.js, bootstrap 5
+
+##Demo 
+https://dev-leonardorivera.github.io/portafolio/
+
