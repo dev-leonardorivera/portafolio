@@ -1,4 +1,5 @@
-## Prtafolio web Leonardo Rivera
+![This is an image](https://raw.githubusercontent.com/dev-leonardorivera/portafolio/main/assets/Portafolio.png)
+# Prtafolio web Leonardo Rivera
 Portafolio personal donde muestro algunos de mis proyectos y mensiono mis habilidades.
 
 ## tegnolodias empleadas
