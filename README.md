@@ -5,6 +5,6 @@ Portafolio personal donde muestro algunos de mis proyectos y mensiono mis habili
 ## tegnolodias empleadas
 HTML, CSS, Vue.js, bootstrap 5
 
-## Demo 
+## Demo. 
 Link: https://dev-leonardorivera.github.io/portafolio/
 
